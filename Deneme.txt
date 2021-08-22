@@ -3,6 +3,8 @@ Nedim
 test
 çakışma olacak
 deneme remote
-aaaaaaaaa
-aaaaaaaaa
 aaaaaaa
+BBBBBB
+BBBBB
+BBBBB
+
